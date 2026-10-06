@@ -5,5 +5,8 @@
 
 ## Submission link
 - Section A: https://forms.gle/ydjAJcwxjpjBXgxB8
-- Section B: https://forms.gle/pAuXQaokwVzhRzit6                      
+- Section B: https://forms.gle/pAuXQaokwVzhRzit6
 
+## Completed homework
+
+Session-by-session submission, including what still needs a screenshot from your machine: [homework/README.md](homework/README.md).

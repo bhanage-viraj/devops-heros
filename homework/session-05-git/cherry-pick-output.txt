@@ -1,0 +1,26 @@
+$ git log --oneline --all --decorate
+3ea9f58 (feature) feature: extra experiment
+6448150 (HEAD -> main) main: fourth commit
+e430321 feature: document the API
+526b7cb main: third commit
+0d97f37 feature: add feature file
+dfafc5a main: second commit
+f716374 main: initial app
+
+$ git cherry-pick e43032127cdc5ea721b9d52c8a02cd7aac2bd29c
+[main a5714e1] feature: document the API
+ Date: Tue Oct 6 18:41:17 2026 +0800
+ 1 file changed, 1 insertion(+)
+ create mode 100644 feature-b.txt
+
+$ git log --oneline --decorate
+a5714e1 (HEAD -> main) feature: document the API
+6448150 main: fourth commit
+526b7cb main: third commit
+dfafc5a main: second commit
+f716374 main: initial app
+
+$ ls feature-*.txt
+feature-b.txt
+$ cat feature-b.txt
+feature-b
