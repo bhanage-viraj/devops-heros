@@ -17,7 +17,7 @@ jobs:
 
       - name: Run system information script
         run: |
-          printf 'bhanage-viraj\nENROLLMENT-NUMBER-HERE\nCI run\n' | bash homework/session-03-shell-scripting/system_info.sh
+          printf 'bhanage-viraj\n24BCS10274\nCI run\n' | bash homework/session-03-shell-scripting/system_info.sh
 
       - name: Python syntax
         run: python3 -m py_compile homework/session-06-07-docker/python-app/app.py

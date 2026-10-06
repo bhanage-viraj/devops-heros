@@ -1,7 +1,7 @@
 # Session 3 — System information script
 
-Student: `bhanage-viraj`  
-Enrollment number: `ENROLLMENT-NUMBER-HERE` (replace this before you submit the form)
+Student: Viraj Bhanage, roll 24BCS10274  
+Enrollment number: `24BCS10274`
 
 Script: [system_info.sh](system_info.sh)
 
@@ -9,23 +9,19 @@ It prints the date, hostname, username, and disk usage. It reads a name, enrollm
 
 ## Command output
 
-Captured on 6 Oct 2026 by piping answers into the script:
+Captured on 6 Oct 2026:
 
 ```text
-Current date: Tue Oct  6 18:35:32 WITA 2026
+Current date: Tue Oct  6 19:51:01 WITA 2026
 Hostname: Virajs-MacBook-Pro-3.local
 Username: bhanageviraj
 
 Disk usage:
-/dev/disk3s1s1   926Gi   13Gi   224Gi    6%   /
+/dev/disk3s1s1   926Gi   13Gi   221Gi    6%   /
 
-My name is bhanage-viraj
-My enrollment number is ENROLLMENT-NUMBER-HERE
-My comment is: Completed the system information script.
-
-Created directory: student-output
-Stored running processes in: student-output/processes.log
-Process log line count: 1184
+My name is Viraj Bhanage
+My enrollment number is 24BCS10274
+My comment is: Session 3 lab for Viraj Bhanage.
 ```
 
 The full `df` listing from that run is in [script-output.txt](script-output.txt). The process log is generated locally and is gitignored, because a full process list from a laptop does not belong in a public repository. Run the script again and the file is recreated:

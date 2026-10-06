@@ -1,6 +1,6 @@
 # Session 15 — Helm
 
-Student: `bhanage-viraj`
+Student: Viraj Bhanage, roll 24BCS10274
 
 Install Helm, then practice against the chart that is already in the course repo:
 

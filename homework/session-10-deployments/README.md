@@ -1,6 +1,6 @@
 # Session 10 — Deployment strategies and Pod lifecycle
 
-Student: `bhanage-viraj`
+Student: Viraj Bhanage, roll 24BCS10274
 
 Apply on a running cluster:
 

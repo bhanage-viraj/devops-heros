@@ -1,6 +1,6 @@
 # Session 4 — Networking commands
 
-Student: `bhanage-viraj`
+Student: Viraj Bhanage, roll 24BCS10274
 
 Practice repos from the session notes:
 

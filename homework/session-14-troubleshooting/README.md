@@ -1,6 +1,6 @@
 # Session 14 — Troubleshooting
 
-Student: `bhanage-viraj`
+Student: Viraj Bhanage, roll 24BCS10274
 
 ## Commands
 

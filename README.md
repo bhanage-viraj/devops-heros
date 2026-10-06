@@ -9,4 +9,6 @@
 
 ## Completed homework
 
-Session-by-session submission, including what still needs a screenshot from your machine: [homework/README.md](homework/README.md).
+**Viraj Bhanage, roll 24BCS10274.**
+
+Each session has a `Viraj-24BCS10274` folder. The longer notes are in [homework/README.md](homework/README.md).

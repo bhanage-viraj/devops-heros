@@ -1,6 +1,6 @@
 # Session 2 — Linux
 
-Student: `bhanage-viraj`
+Student: Viraj Bhanage, roll 24BCS10274
 
 This Mac does not ship `useradd`, `adduser`, or `journalctl`. The link exercise below was run on this machine. The user and journal sections are the Ubuntu commands to run on a Linux lab VM.
 

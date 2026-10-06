@@ -1,6 +1,6 @@
 # Session 11 — Services
 
-Student: `bhanage-viraj`
+Student: Viraj Bhanage, roll 24BCS10274
 
 Apply `clusterip.yaml` first. The other Service files select the same `app: web` Pods.
 

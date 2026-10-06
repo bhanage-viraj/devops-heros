@@ -1,6 +1,6 @@
 # Session 16 — CI/CD and GitHub Actions
 
-Student: `bhanage-viraj`
+Student: Viraj Bhanage, roll 24BCS10274
 
 ## What the pipeline is
 

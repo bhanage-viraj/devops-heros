@@ -1,7 +1,7 @@
 # Session 21 — Final project
 
-Student: `bhanage-viraj`  
-Enrollment number: `ENROLLMENT-NUMBER-HERE`
+Student: Viraj Bhanage, roll 24BCS10274  
+Enrollment number: `24BCS10274`
 
 The capstone application is **TaskBoard** in [`session21-python`](../../session21-python). It already contains the application, Dockerfiles, Compose file, tests, Terraform for VPC and EKS, Helm chart, Kubernetes namespace, monitoring values, and the troubleshooting manifests. The root workflow [`.github/workflows/taskboard-ci.yml`](../../.github/workflows/taskboard-ci.yml) is what GitHub will run, because Actions ignores workflows nested inside `session21-python/.github`.
 

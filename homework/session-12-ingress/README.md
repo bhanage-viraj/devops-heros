@@ -1,6 +1,6 @@
 # Session 12 — ConfigMap, Secret, Ingress
 
-Student: `bhanage-viraj`
+Student: Viraj Bhanage, roll 24BCS10274
 
 ## Task 1 — ConfigMap
 

@@ -1,6 +1,6 @@
 # Session 19 — Cloud infrastructure with Terraform
 
-Student: `bhanage-viraj`
+Student: Viraj Bhanage, roll 24BCS10274
 
 Project file: [main.tf](main.tf)
 

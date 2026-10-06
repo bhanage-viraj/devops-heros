@@ -1,7 +1,7 @@
 # Session 6 and 7 — Docker Hello World
 
-Student: `bhanage-viraj`  
-Enrollment number: `ENROLLMENT-NUMBER-HERE`
+Student: Viraj Bhanage, roll 24BCS10274  
+Enrollment number: `24BCS10274`
 
 ## Applications
 

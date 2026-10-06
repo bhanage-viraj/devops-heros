@@ -1,6 +1,6 @@
 # Session 9 — Kubernetes fundamentals
 
-Student: `bhanage-viraj`
+Student: Viraj Bhanage, roll 24BCS10274
 
 ## Architecture
 

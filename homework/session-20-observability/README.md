@@ -1,6 +1,6 @@
 # Session 20 — Monitoring, observability, GitOps
 
-Student: `bhanage-viraj`
+Student: Viraj Bhanage, roll 24BCS10274
 
 The course labs are in `session20-monitoring-observability-gitops/`. This file is the written half of the homework.
 

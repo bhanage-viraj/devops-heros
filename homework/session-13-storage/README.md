@@ -1,6 +1,6 @@
 # Session 13 — Storage, HPA, probes
 
-Student: `bhanage-viraj`
+Student: Viraj Bhanage, roll 24BCS10274
 
 Volume notes: [01-kubernetes-volumes/README.md](01-kubernetes-volumes/README.md)
 

@@ -1,6 +1,6 @@
 # Session 8 — Docker networking and volumes
 
-Student: `bhanage-viraj`
+Student: Viraj Bhanage, roll 24BCS10274
 
 Run everything with Docker Desktop open:
 

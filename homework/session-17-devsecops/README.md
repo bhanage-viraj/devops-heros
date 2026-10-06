@@ -1,6 +1,6 @@
 # Session 17 — DevSecOps pipeline
 
-Student: `bhanage-viraj`
+Student: Viraj Bhanage, roll 24BCS10274
 
 The course sample is `session-17-devsecops/demo/.github/workflows/devsecops.yml`. The pipeline that actually runs on this fork is `.github/workflows/taskboard-ci.yml`.
 

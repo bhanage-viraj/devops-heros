@@ -1,6 +1,6 @@
 # Session 18 — Terraform S3 demo
 
-Student: `bhanage-viraj`
+Student: Viraj Bhanage, roll 24BCS10274
 
 Project: [terraform-s3-demo](terraform-s3-demo)
 

@@ -1,9 +1,9 @@
 # Homework — all 21 sessions
 
 Student GitHub: [bhanage-viraj](https://github.com/bhanage-viraj)  
-Enrollment number: **replace `ENROLLMENT-NUMBER-HERE`** in the session 3, 6, and 21 READMEs before you submit the Google Form.
+Enrollment number: **24BCS10274**. Name: **Viraj Bhanage**.
 
-This folder is the submission. The original session folders stay as the course material. Each session below links to the files that answer that session's task.
+**Viraj Bhanage, roll 24BCS10274.** The copy a grader should open is the `Viraj-24BCS10274` folder inside each session. This `homework/` tree is the same work with the longer notes.
 
 | Session | Topic | Submission |
 |---|---|---|
@@ -39,7 +39,7 @@ Code, explanations, and the command output that could be collected on this Mac a
 
 ### 1. Enrollment number
 
-Search the repo for `ENROLLMENT-NUMBER-HERE` and replace it with your real number. Three files: session 3 README, session 6 README, session 21 README.
+Name **Viraj Bhanage** and roll **24BCS10274** are already filled in.
 
 ### 2. Git cherry-pick (session 5)
 
