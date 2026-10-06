@@ -14,3 +14,9 @@ minikube addons enable ingress
 kubectl apply -f manifests/
 kubectl exec configmap-demo -- printenv APP_ENV APP_MESSAGE
 ```
+
+## Evidence
+
+The ConfigMap values were read from the running pod. The Secret was applied and was not printed.
+
+![configmap](images/configmap-created.png)

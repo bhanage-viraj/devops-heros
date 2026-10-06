@@ -24,3 +24,9 @@ I made four commits on `main`, branched to `feature`, and added three commits th
 After that, `main` contained `feature-b.txt` and did not contain `feature-a.txt` or `feature-c.txt`. Cherry-pick copies one commit. It does not merge the branch.
 
 The full transcript is in `homework/session-05-git/cherry-pick-output.txt`. Re-run it with `homework/session-05-git/cherry-pick-demo.sh`.
+
+## Evidence
+
+![commit -a](images/git-commit-a-flag.png)
+
+![cherry-pick](images/cherry-pick.png)

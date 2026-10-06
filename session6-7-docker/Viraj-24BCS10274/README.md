@@ -22,6 +22,24 @@ docker build -t viraj-node:24bcs10274 nodejs-app
 docker run --rm -p 3001:3000 viraj-node:24bcs10274
 ```
 
-Repeat for the other folders. On this machine the same apps were already built from `homework/session-06-07-docker` and each URL returned a page. The multi-stage container was published as `0.0.0.0:8080->8080/tcp`.
+Repeat for the other folders. On this machine each app in this folder was built and opened in Chrome. The multi-stage container was published as `0.0.0.0:8080->8080/tcp`. The browser pictures are in `images/`.
 
-I did not reuse anyone else's screenshots. If the form wants browser pictures, run the containers and capture your own.
+## Evidence
+
+Browser pictures of the pages this folder actually served, plus `docker ps`.
+
+![running containers](images/docker-ps.png)
+
+![Node](images/nodejs-page.png)
+
+![Python](images/python-page.png)
+
+![Java](images/java-page.png)
+
+![Apache](images/apache-page.png)
+
+![React](images/react-page.png)
+
+![Nginx](images/nginx-page.png)
+
+![multi-stage build](images/multi-stage-page.png)

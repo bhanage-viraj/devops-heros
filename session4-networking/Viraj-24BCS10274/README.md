@@ -15,3 +15,15 @@ I ran these on `Virajs-MacBook-Pro-3.local` (user `bhanageviraj`) on 6 Oct 2026.
 `ping` only proves ICMP. `nslookup` proves name resolution. `curl -I` proves HTTP. A host can fail one of those and still pass the others.
 
 Private address space on this LAN is inside `192.168.0.0/16`. The session notes split an address into network bits and host bits with the mask. A `/24` leaves 8 host bits, so 254 usable hosts.
+
+## Evidence
+
+![ping](images/ping.png)
+
+![nslookup](images/nslookup.png)
+
+![curl headers](images/curl-headers.png)
+
+![route](images/ip-route.png)
+
+![hostname](images/hostname.png)

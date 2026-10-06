@@ -12,3 +12,7 @@
 | oom | The process grows past a 20Mi limit | Stop the allocation or raise the limit |
 
 `kubectl describe pod` shows the event. `kubectl logs --previous` shows the crashed process. `mini-project/broken-pod.yaml` uses a tag that does not exist, so that Pod stays in `ErrImagePull` while the Deployment Pods stay Running.
+
+## Evidence
+
+![ImagePullBackOff](images/errimagepull.png)

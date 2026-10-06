@@ -22,3 +22,7 @@ kubectl rollout status deployment/rolling-web
 ```
 
 `CrashLoopBackOff` is not a phase. Pending on `lifecycle-pending` is a scheduling miss, and `describe` puts that in Events.
+
+## Evidence
+
+![deployments and pod lifecycle](images/core-objects.png)

@@ -49,3 +49,17 @@ journalctl -f
 ## Commands I actually use
 
 `pwd`, `ls -la`, `cp`, `mv`, `rm`, `mkdir`, `touch`, `cat`, `grep`, `chmod`, `ps`, `df -h`, and `ss` or `netstat`. Each one either locates a file, changes it, or shows process and disk state.
+
+## Evidence
+
+These pictures were captured on this machine. The adduser comparison ran inside Ubuntu 24.04 after installing the `adduser` package, because the minimal image only has `useradd`.
+
+![soft link and hard link](images/softlink-hardlink-create.png)
+
+![after deleting the original name](images/softlink-hardlink-delete.png)
+
+![adduser and useradd](images/adduser-vs-useradd.png)
+
+![journalctl on this Mac](images/journalctl.png)
+
+![everyday commands](images/command-practice.png)

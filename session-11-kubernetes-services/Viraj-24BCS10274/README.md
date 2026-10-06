@@ -18,3 +18,7 @@ A Deployment owns ReplicaSets and rollouts. A ReplicaSet only keeps a replica co
 A Service FQDN looks like `web-clusterip.default.svc.cluster.local`. In the same namespace the short name is enough.
 
 CoreDNS in `kube-system` answers those names from the API and forwards everything else. An empty endpoints list can still have a ClusterIP. Connections fail until the selector matches the Pod labels.
+
+## Evidence
+
+![services](images/services.png)

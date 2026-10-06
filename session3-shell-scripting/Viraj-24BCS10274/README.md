@@ -23,3 +23,9 @@ Disk: /dev/disk3s1s1  926Gi used about 13Gi, 6% full
 chmod +x system_info.sh
 ./system_info.sh
 ```
+
+## Evidence
+
+![script run](images/script-run.png)
+
+![script output check](images/script-verify.png)

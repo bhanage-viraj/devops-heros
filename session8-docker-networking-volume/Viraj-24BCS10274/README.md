@@ -37,3 +37,13 @@ On Docker Desktop for Mac, host networking belongs to the Linux VM, so port 80 m
 ## Overlay
 
 An overlay network lets containers on different Docker hosts share one virtual network. Swarm wraps the packet in VXLAN and hands it to the other node. A single-machine lab uses bridge networks. Overlay is what keeps a service name working after a task moves to another node.
+
+## Evidence
+
+The frontend could reach the backend. It could not resolve `database`, because those two containers do not share a network. The bind-mount page changed after an edit to the host file, with the same container still running.
+
+![networks and ping](images/networks-created.png)
+
+![bind mount before the edit](images/bindmount-before.png)
+
+![bind mount after the edit](images/bindmount-after.png)
